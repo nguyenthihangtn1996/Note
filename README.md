@@ -46,6 +46,8 @@ Bước này cần ghi tóm tắt commit này thêm chức năng gì
 ví dụ vừa làm xong chức năng đặt hàng 
 sử dụng lệnh ``git commit -m 'mô tả ngắn của commit'``
 
+## Bước 6.5 bước đẩy code lên server
+ ``git push``
 
 ## bước 7 cách pull code về update
 
