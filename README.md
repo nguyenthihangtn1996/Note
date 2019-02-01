@@ -1,0 +1,20 @@
+# Get started with github
+
+## step 1
+Cài đặt GITHUB tại  https://git-scm.com/download/win
+## bước 2 quy trình làm việc với git:
+
+Manager
+-  có 1 ông project manager có quyền review code  của mọi người
+-  merge code (hợp đống code mà mọi người mới code vào cái đống đã tồn tại, )
+
+Member
+- Pull về (tải cái code mới nhất về)(có 1 ông A và một ông B 2 ông này làm việc trên một kho code C, và 1 ông manager D, ông A viết đc 100 dòng code
+và được ông D review ông D comment bảo với ông A rằng ``Dòng số 90 chú code lởm k đc code lại đi ``
+Ông A sau khi đọc comment của ông D và sửa code của mình, Sau khi sửa xong ông A gửi yêu cầu merge lại tới ông D. ông D thấy OK
+Ông d merge code của ông A vào kho chính, ông B code cần tải code mới nhất mà ông A vừa code về (lệnh pull)
+)
+- sao chép code từ nhánh chính
+- tạo nhánh phụ
+- yêu cầu merge vào nhánh chính
+
