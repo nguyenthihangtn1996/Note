@@ -47,7 +47,7 @@ ví dụ vừa làm xong chức năng đặt hàng
 sử dụng lệnh ``git commit -m 'mô tả ngắn của commit'``
 
 
-## cách pull code về 
+## bước 7 cách pull code về update
 
 Khi có một người khác trong team thêm code về master, thì mình cần update code mới nhất của master về
 sử dụng lệnh
