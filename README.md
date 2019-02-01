@@ -39,7 +39,7 @@ sau đó dùng lệnh ``git add <tenfile> `` <- add 1 file, theo dõi 1 file
 
 ``git add .`` add hết những file có trong thư mục đó
 
-# Bước 6 commit dể chuẩn bị up load lên server
+## Bước 6 commit dể chuẩn bị up load lên server
 
 Bước này cần ghi tóm tắt commit này thêm chức năng gì
 
@@ -47,5 +47,11 @@ ví dụ vừa làm xong chức năng đặt hàng
 sử dụng lệnh ``git commit -m 'mô tả ngắn của commit'``
 
 
+## cách pull code về 
+
+Khi có một người khác trong team thêm code về master, thì mình cần update code mới nhất của master về
+sử dụng lệnh
+
+``git pull origin master`` 
 
 
