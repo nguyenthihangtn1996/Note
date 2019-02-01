@@ -18,3 +18,10 @@ và được ông D review ông D comment bảo với ông A rằng ``Dòng số
 - tạo nhánh phụ
 - yêu cầu merge vào nhánh chính
 
+## bước 3 Tải project về như thế nào
+``git clone <link project >``
+
+Ví dụ: ``git clone https://github.com/nguyenthihangtn1996/Note.git ``
+
+
+
